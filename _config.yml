@@ -9,8 +9,10 @@
 title: Los Angeles Pokemon Go
 email: info@losangelespokemongo.com
 description: Domain available
+url: http://losangelespokemongo.com
 
-url: http://losangelespokemongo.com # the base hostname & protocol for your site
+# Meta variable for Google Webmaster tools
+google-verification: AF2Wo7MkjoDe3fwejuzq2W5f2PzhyQED5lL7he5Pjhs
 
 exclude:
     - LICENSE
